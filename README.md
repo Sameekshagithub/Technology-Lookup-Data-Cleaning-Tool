@@ -1,4 +1,4 @@
-# Tech Data Cleaner
+# Technology Lookup Data Cleaning Tool
 
 A single-file React tool for normalizing and enriching messy technology name data. Paste raw input with abbreviations, aliases, and inconsistent casing — get back clean, standardized entries with category metadata.
 
